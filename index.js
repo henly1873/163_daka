@@ -1,5 +1,5 @@
 // 用户名和密码
-const phone = '';
+const phone = '17605906227';
 const password = '';
 
 const rp = require('request-promise');
